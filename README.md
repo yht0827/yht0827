@@ -1,7 +1,24 @@
 ### Hi there 👋
 
-![HT's GitHub stats](https://github-readme-stats.vercel.app/api?username=yht0827&show_icons=true&theme=radical)
+<p>
+  <a href="https://ht.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-DD0B78?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="mailto:yangheetae0827@naver.com" target="_blank"><img src="https://img.shields.io/badge/yangheetae0827@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://yht0827.github.io/protfolio/" target="_blacnk"><img src="https://img.shields.io/badge/Portfolio-10B146?style=flat-square&logo=GitHub&logoColor=white" /></a>
+</p>
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=yht0827&show_icons=true&theme=radical" width="440"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yht0827&layout=compact&theme=tokyonight" alt="languages" height="173">
+</p>
 
+### 💪 Skills
+#### Languages and Tools
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyht0827&count_bg=%23265801&title_bg=%23030303&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://github.com/spring-projects/spring-framework/blob/main/src/docs/spring-framework.png?raw=true"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/maven/maven.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<br />
+
+<p> <img src="https://komarev.com/ghpvc/?username=yht0827" alt="hedythedev" /> </p>
