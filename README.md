@@ -8,7 +8,7 @@
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yht0827&show_icons=true&theme=radical" width="440"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yht0827&layout=compact&theme=tokyonight" alt="languages" height="173">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yht0827&layout=compact&theme=tokyonight" alt="languages" height="175">
 </p>
 
 ### 💪 Skills
