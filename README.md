@@ -31,5 +31,5 @@
 
 <br />
 
-### 🙏 Boj
+### 🙏 BOJ
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yht0827" alt="languages" height="175" />
