@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-<p> <img src="https://komarev.com/ghpvc/?username=yht0827" alt="hedythedev" /> </p>
-
 ### Hi there 👋
 
 <img src="https://i.pinimg.com/originals/f7/5f/f2/f75ff23cd22d200f24bfd21f3a8b1f86.gif" width="200">
