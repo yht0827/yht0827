@@ -7,7 +7,7 @@
 <p>
   <a href="mailto:yangheetae0827@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://ht.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-DD0B78?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://yht0827.github.io/protfolio/" target="_blacnk"><img src="https://img.shields.io/badge/Portfolio-10B146?style=flat-square&logo=GitHub&logoColor=white" /></a>
+  <a href="https://yht0827.github.io/portfolio/" target="_blacnk"><img src="https://img.shields.io/badge/Portfolio-10B146?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </p>
 
 <p align="left">
