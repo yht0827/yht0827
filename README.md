@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=250&section=header&fontSize=90)
 ### Hi there 👋
 
 <img src="https://i.pinimg.com/originals/f7/5f/f2/f75ff23cd22d200f24bfd21f3a8b1f86.gif" width="200">
@@ -15,6 +15,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yht0827&layout=compact&theme=tokyonight" alt="languages" height="175" />
 </p>
 
+<br />
+
+### 🙏 BOJ
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yht0827" alt="languages" height="175" />
+
 ### 💪 Skills
 #### Languages and Tools:
 
@@ -30,9 +35,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br />
 
-### 🙏 BOJ
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yht0827" alt="languages" height="175" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=250&section=footer&fontSize=90)
