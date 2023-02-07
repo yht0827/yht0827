@@ -6,12 +6,6 @@
 <img src="https://i.pinimg.com/originals/f7/5f/f2/f75ff23cd22d200f24bfd21f3a8b1f86.gif" width="200">
 </p>
   
-#### Connect with me:
-<p align=center>
-  <a href="mailto:yangheetae0827@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://ht.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-DD0B78?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://yht0827.github.io/portfolio/" target="_blacnk"><img src="https://img.shields.io/badge/Portfolio-10B146?style=flat-square&logo=GitHub&logoColor=white" /></a>
-</p>  
 
 #### Languages and Tools:
 <p align=center>
