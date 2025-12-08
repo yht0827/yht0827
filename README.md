@@ -75,19 +75,6 @@
 <br>
 
 <div align="center">
- <h3><b> 🎄 Github Stats 🎄 </b></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=yht0827&show_icons=true&count_private=true&hide_border=true" align="center" />
-  
-</div>  
-<br>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yht0827&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
-  
-</div>
-
-<div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yht0827" alt="languages" height="175" />
 </div>
 
