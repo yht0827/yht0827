@@ -16,6 +16,18 @@
   <a href="https://computerstorage.tistory.com" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 <br>
 
+<br>
+
+<h3 align="center"><b>🌱 Open Source 🌱</b></h3>
+
+  <a href="https://github.com/apache/seatunnel" target="_blank"><img src="https://img.shields.io/badge/Apache%20SeaTunnel-D22128?style=for-the-badge&logo=apache&logoColor=FFFFFF"/></a>
+  <br>
+  <sub>
+    Fixed a Transform-V2 JsonPath date/time conversion bug and added regression tests.
+    <br>
+    <a href="https://github.com/apache/seatunnel/pull/10390" target="_blank">Merged PR #10390</a>
+  </sub>
+<br>
 
 <br>
 
@@ -77,5 +89,4 @@
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yht0827" alt="languages" height="175" />
 </div>
-
 
